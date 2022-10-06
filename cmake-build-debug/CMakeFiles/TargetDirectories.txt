@@ -1,0 +1,3 @@
+/Users/jiajia/CLionProjects/enen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jiajia/CLionProjects/enen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jiajia/CLionProjects/enen/cmake-build-debug/CMakeFiles/enen.dir

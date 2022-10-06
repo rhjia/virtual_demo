@@ -6,9 +6,5 @@
 #define ENEN_COCOCO_H
 
 
-class cococo {
-    cout<<"beautiful"<<endl;
-};
-
 
 #endif //ENEN_COCOCO_H
